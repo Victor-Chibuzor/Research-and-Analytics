@@ -1,0 +1,39 @@
+body{
+    background-color: lightgrey;
+}
+header{
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+img{
+    position: relative;
+    top: 0px;
+    left: 400px;
+}
+.logo{
+    width: 200px;
+    border-radius: 100%;
+    position: relative;
+    right: 200px;
+    top: 20px;
+}
+section{
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 20px;
+}
+h2{
+    margin-bottom: 10px;
+    color: light black;
+}
+ul{
+    list-style: square;
+    margin-left: 20px;
+}
+.project{
+    margin-bottom: 10px;
+}
+
+
